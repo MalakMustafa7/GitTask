@@ -19,15 +19,15 @@ This task demonstrates working with Git branching, committing, history manipulat
 - Committed `file2` with message: `second-commit`.
 
 ### 3. Git log after two commits:
-![Log after commits](screenshots/log-after-commits.png)
+![Log after commits](screenshots/FirstLog.jpg)
 
 ---
 
 ### 4. Used `git reset --hard` to go back to first commit:
-![After reset to first-commit](screenshots/reset-to-first.png)
+![After reset to first-commit](screenshots/resetHardPhoto.jpg)
 
 ### 5. Restored second commit using `git reflog`:
-![Reflog restore](screenshots/restore-reflog.png)
+![Reflog restore](screenshots/reflogPhoto.jpg)
 
 ---
 
