@@ -37,4 +37,14 @@ This task demonstrates working with Git branching, committing, history manipulat
 ### 7. Back to `develop`:
 - Created `file4` and committed as `fourth-commit`.
 
+- ---
+
+### 8. Git log graph of all branches:
+![Log graph](screenshots/graph .jpg)
+
 ---
+
+### 9. Rebasing `develop` onto `alpha`:
+![After rebase](screenshots/rebasePhoto.jpg)
+
+ 
