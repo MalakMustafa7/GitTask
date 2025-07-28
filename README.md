@@ -40,7 +40,7 @@ This task demonstrates working with Git branching, committing, history manipulat
 - ---
 
 ### 8. Git log graph of all branches:
-![Log graph](screenshots/graph .jpg)
+![Log graph](screenshots/graph.jpg)
 
 ---
 
